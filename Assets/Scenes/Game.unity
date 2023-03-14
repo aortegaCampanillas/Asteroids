@@ -333,7 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   topX: 19
   topY: 6
-  speed: 0.3
+  speed: 0.1
   rotationSpeed: 100
   shot: {fileID: 5203009131837824824, guid: da3ce5d93bd3f433f9af5e87690d7fb4, type: 3}
   shotInterval: 0.2
